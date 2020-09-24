@@ -6,4 +6,4 @@ jupyter
 scikit-learn
 seaborn
 statsmodels
-
+pygam
